@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import CrimeHotspotMapping from './components/CrimeHotspotMapping';
-import PredictiveBehavioralAnalysis from './components/PredictiveBehavioralAnalysis';
-import AutomatedPatrolRouteOptimization from './components/AutomatedPatrolRouteOptimization';
-import AccidentProneAreas from './components/AccidentProneAreas';
+import CrimeHotspotMapping from './CrimeHotspotMapping';
+import PredictiveBehavioralAnalysis from './PredictiveBehavioralAnalysis';
+import AutomatedPatrolRouteOptimization from './AutomatedPatrolRouteOptimization';
+import AccidentProneAreas from './AccidentProneAreas';
 import './App.css';
 
 function App() {
